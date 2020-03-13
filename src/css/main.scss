@@ -353,9 +353,9 @@ $textColor:#121212;
     &__eleven {
       display: flex;
       flex-direction: column;
-      border-top: 1px solid $textColor;
-      border-left: 1px solid $textColor;
-      border-bottom: 1px solid $textColor;
+      border-top: 1px solid $thirdColor;
+      border-left: 1px solid $thirdColor;
+      border-bottom: 1px solid $thirdColor;
       padding-left: 8px;
       width: calc(100% - 9px);
       padding-right: 12px;
@@ -388,7 +388,6 @@ $textColor:#121212;
     }
 
     &__three {
-      margin-top: 30px;
 
       .player {
         margin-bottom: 12px;
