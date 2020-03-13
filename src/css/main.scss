@@ -417,6 +417,10 @@ $textColor:#121212;
         height: 510px;
         padding-right: 10px;
       }
+
+      .open & {
+        height: auto !important;
+      }
     }
 
     .open-button {
